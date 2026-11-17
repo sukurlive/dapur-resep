@@ -76,7 +76,7 @@ Alur pengambilan data adalah **halaman → `useQuery` → opsi query di `src/api
 
 | Home | Kategori | Detail |
 | --- | --- | --- |
-| <img src="screenshot/home.png" alt="Judul, resep pilihan, dan bilah tab bawah." width="320"> | <img src="screenshot/kategori.jpeg" alt="Pencarian, dropdown filter, dan kartu resep dengan label asal." width="320"> | <img src="screenshot/detail-resep.jpeg" alt="Foto hidangan, bahan, dan langkah memasak." width="320"> |
+| <img src="screenshot/home.jpeg" alt="Judul, resep pilihan, dan bilah tab bawah." width="320"> | <img src="screenshot/kategori.jpeg" alt="Pencarian, dropdown filter, dan kartu resep dengan label asal." width="320"> | <img src="screenshot/detail-resep.jpeg" alt="Foto hidangan, bahan, dan langkah memasak." width="320"> |
 
 ## Menjalankan Aplikasi
 
