@@ -70,13 +70,13 @@ Alur pengambilan data adalah **halaman → `useQuery` → opsi query di `src/api
 
 | Tampilan | Nama file  | Bagian yang ditampilkan |
 | --- | --- | --- |
-| Beranda | `screenshot/home.jpeg` | Judul, resep pilihan, dan bilah tab bawah. |
+| Home | `screenshot/home.jpeg` | Judul, resep pilihan, dan bilah tab bawah. |
 | Kategori | `screenshot/kategori.jpeg` | Pencarian, dropdown filter, dan kartu resep dengan label asal. |
 | Detail | `screenshot/detail-resep.jpeg` | Foto hidangan, bahan, dan langkah memasak. |
 
-`![Beranda Dapur Resep](screenshot/home.jpeg)`
-`![Kategori Dapur Resep](screenshot/kategori.jpeg)`
-`![Detail Resep](screenshot/detail-resep.jpeg)`
+| Home | Kategori | Detail |
+| --- | --- | --- |
+| <img src="screenshot/home.png" alt="Judul, resep pilihan, dan bilah tab bawah." width="320"> | <img src="screenshot/kategori.jpeg" alt="Pencarian, dropdown filter, dan kartu resep dengan label asal." width="320"> | <img src="screenshot/detail-resep.jpeg" alt="Foto hidangan, bahan, dan langkah memasak." width="320"> |
 
 ## Menjalankan Aplikasi
 
